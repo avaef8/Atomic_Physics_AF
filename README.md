@@ -1,6 +1,8 @@
 # Atomic_Physics_AF
 Currently this holds my US '26 CMSE201 final project in its edited form. I suggest that the file is personally downloaded because the intention of the code is for it to work using a desired, user inputted, element from 01H to 92U. The code and markdown boxes are not in their formal form but is enough to extrapolate a lot of meaning from the NIST dataset.
 
+You can download the dataset in order to use the code here: https://www.nist.gov/pml/atomic-reference-data-electronic-structure-calculations
+
 *Research Question: How does Shielding Constant change throughout electrons in an atom?*
 
 i.e. How attracted are electrons to the nucleus as they get further out? How does the shielding effect look for each orbital in the elements?
